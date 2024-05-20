@@ -6,8 +6,8 @@ while (op!=3):
           3-Wekito?""")
     op=input("El cris es: ")
     if op=1:
-    print("el cris es Pollo")
+            print("el cris es Pollo")
     elif op=2:
-    print("el cris es Wn")
+            print("el cris es Wn")
     else:
-    print("el cris es wekito")
+            print("el cris es wekito")
